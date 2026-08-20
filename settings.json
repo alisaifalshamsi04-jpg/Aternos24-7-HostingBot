@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "M1 bot",
     "password": "",
-    "type": "online"
+    "type": "ofline"
   },
   "server": {
     "ip": "M1-971.aternos.me",
